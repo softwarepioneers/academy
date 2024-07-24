@@ -1,2 +1,2 @@
-# academy
-academy
+# Somaliland Academy
+Somaliland Academy
